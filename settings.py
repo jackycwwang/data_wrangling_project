@@ -1,9 +1,11 @@
-consumer_key = ''
-consumer_secret = ''
-access_token = ''
-access_token_secret = ''
+consumer_key = ""
+consumer_secret = ""
+access_token = ""
+access_token_secret = ""
+
 
 try:
-    from .private import *
-except Exception:    
+    from .privacy import *
+except Exception:
     pass
+    
