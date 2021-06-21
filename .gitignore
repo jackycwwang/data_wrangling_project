@@ -2,3 +2,7 @@ private.py
 setting.py
 __pycache__
 .ipynb_checkpoints
+wrangle_report.docx
+wrangle_report.pdf
+act_report.docx
+corr_matrix.png
